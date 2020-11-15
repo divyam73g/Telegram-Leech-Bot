@@ -46,7 +46,7 @@ Must [Fork](https://github.com/AbirHasan2005/Telegram-Leech-Bot/fork) this repo 
 Simply clone the repository and run the main file:
 
 ```bash
-git clone https://github.com/AbirHasan2005/Telegram-Leech-Bot telegram-leech-bot
+git clone https://github.com/divyam73g/Telegram-Leech-Bot telegram-leech-bot
 cd telegram-leech-bot
 python3 -m venv venv
 . ./venv/bin/activate
